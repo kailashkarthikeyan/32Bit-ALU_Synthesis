@@ -56,6 +56,8 @@ write_hdl > alu_32bit_netlist.v
 gui_show
 ```
 #### Synthesis RTL Schematic :
+![image](https://github.com/user-attachments/assets/7434fd2f-100f-4e18-8535-d94cb28882df)
+
 
 #### Area report:
 ![image](https://github.com/user-attachments/assets/45bca59c-1a0e-4c96-8093-617e80aacf54)
