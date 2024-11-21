@@ -34,7 +34,7 @@ used.
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
-# Run.tcl
+### Run.tcl
 ```
 read_libs /cadence/install/FOUNDRY-01/digital/90nm/dig/lib/slow.lib
 read_hdl alu_32bit.v
@@ -56,7 +56,7 @@ write_hdl > alu_32bit_netlist.v
 
 gui_show
 ```
-# alu_32bit.v
+### alu_32bit.v
 ```
 module alu_32bit_case(y,a,b,f);
 input [31:0]a;
